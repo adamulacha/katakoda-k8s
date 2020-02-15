@@ -1,6 +1,6 @@
 {
-  "title": "Kubernetes playground",
-  "description": "Kubernetes playground",
+  "title": "Kubernetes Playground",
+  "description": "Play with Kubernetes!",
   "difficulty": "Beginner",
   "time": "60 minutes",
   "details": {
@@ -18,7 +18,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"
