@@ -1,1 +1,1 @@
-git clone https://github.com/DanWahlin/DockerAndKubernetesCourseCode.git
+`git clone https://github.com/DanWahlin/DockerAndKubernetesCourseCode.git`{{execute}}
